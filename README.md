@@ -1,1 +1,4 @@
 # Tarea-1-Programaci-n
+GitHub es como una herramienta mágica para cualquier proyecto de software. Piensa en él como un backup infinito pero no solo eso también es una manera de organizar todo tu código de forma que nunca pierdas lo que has hecho. Si cometes un error puedes volver a la versión anterior de tu proyecto sin miedo a perder todo el trabajo. Y si estás trabajando con otros cada uno puede hacer cambios sin pisarse los pies y luego los puedes juntar sin que se arme un caos  
+
+Aparte de eso puedes mostrar tu trabajo al mundo ya que GitHub te permite tener proyectos públicos que cualquiera puede ver o colaborar. Es ideal tanto para proyectos personales como para trabajos en equipo y lo mejor es que es gratis para repositorios públicos. Así que si quieres enseñar o compartir lo que haces ahí está el espacio perfecto para hacerlo. Es como tener un archivo ordenado y siempre a la mano
